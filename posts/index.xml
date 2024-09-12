@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 知知</title>
+        <link>https://zhizhi.youziwlwwl.top/posts/</link>
+        <description>Recent content in Posts on 知知</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>知知的小站</copyright>
+        <lastBuildDate>Wed, 11 Sep 2024 22:11:12 +0800</lastBuildDate><atom:link href="https://zhizhi.youziwlwwl.top/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Sky Ios</title>
+        <link>https://zhizhi.youziwlwwl.top/posts/sky-ios/</link>
+        <pubDate>Wed, 11 Sep 2024 22:11:12 +0800</pubDate>
+        
+        <guid>https://zhizhi.youziwlwwl.top/posts/sky-ios/</guid>
+        <description>&lt;h1 id=&#34;mumu模拟器安装magisk&#34;&gt;mumu模拟器安装&lt;strong&gt;Magisk&lt;/strong&gt;
+&lt;/h1&gt;&lt;h2 id=&#34;1安装magisk前置准备&#34;&gt;1.&lt;strong&gt;安装《Magisk》前置准备&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;​		点击模拟器右上角菜单-设置中心，点击磁盘设置，将磁盘设置改为“可写系统盘”，之后再点击设置界面-其他-**“开启手机ROOT权限”**功能，保存设置之后重启模拟器。&lt;img src=&#34;https://nie.res.netease.com/r/pic/20240202/d25a7644-b4bd-4534-9950-e9d9f635f20c.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nie.res.netease.com/r/pic/20240202/0e9d5512-3746-4eac-953a-95718f126d90.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2通过kitsune-mask工具安装magisk&#34;&gt;&lt;strong&gt;2.通过《Kitsune Mask》工具安装《Magisk》&lt;/strong&gt;
+&lt;/h2&gt;&lt;h3 id=&#34;第一步下载kitsune-maskreleases--huskydgmagisk-files-githubcomhttpsgithubcomhuskydgmagisk-filesreleases下载安装完成后打开kitsune-mask并在弹窗提示请求超级用户权限界面选择永久记住选择-允许imghttpsnieresneteasecomrpic20240202010ae6ae-0900-4651-8c48-66acdb0598a1png&#34;&gt;第一步，下载[Kitsune Mask](&lt;a class=&#34;link&#34; href=&#34;https://github.com/HuskyDG/magisk-files/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Releases · HuskyDG/magisk-files (github.com)&lt;/a&gt;)下载安装完成后，打开《Kitsune Mask》，并在弹窗提示请求超级用户权限界面选择“永久记住选择”-“允许”；&lt;img src=&#34;https://nie.res.netease.com/r/pic/20240202/010ae6ae-0900-4651-8c48-66acdb0598a1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;
+&lt;/h3&gt;&lt;h3 id=&#34;第二步在kitsune-mask界面点击magisk栏目右侧的安装&#34;&gt;第二步，在《Kitsune Mask》界面，点击《Magisk》栏目右侧的安装；
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://nie.res.netease.com/r/pic/20240202/c63ea994-ad84-4bae-8444-5f21bf5c7685.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;第三步选中直接安装方式并点击右侧开始进行安装&#34;&gt;第三步，选中“直接安装”方式，并点击右侧开始进行安装；
+&lt;/h3&gt;&lt;p&gt;　　&lt;strong&gt;注：若没看到直接安装的选项，可重启《Kitsune Mask》尝试。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nie.res.netease.com/r/pic/20240202/e6321fae-a2bb-4a37-bd2a-2797a1f67c66.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;第四步安装完成后应用界面底部会提示all-done此时需要手动重启模拟器imghttpsnieresneteasecomrpic202402029db2452f-3cd4-480b-8955-7bdcd8de284dpng&#34;&gt;第四步，安装完成后，应用界面底部会提示“All done！”，此时需要手动重启模拟器；&lt;img src=&#34;https://nie.res.netease.com/r/pic/20240202/9db2452f-3cd4-480b-8955-7bdcd8de284d.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;
+&lt;/h3&gt;&lt;h3 id=&#34;第五步重启模拟器后打开kitsune-mask会遇到提示异常状态imghttpsnieresneteasecomrpic20240628ed02ca8a-1270-4ea2-8825-11fdd4b28a03png&#34;&gt;　第五步，重启模拟器后，打开《Kitsune Mask》会遇到提示异常状态；&lt;img src=&#34;https://nie.res.netease.com/r/pic/20240628/ed02ca8a-1270-4ea2-8825-11fdd4b28a03.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;
+&lt;/h3&gt;&lt;p&gt;这是正常现象,忽略即可.&lt;/p&gt;
+&lt;h2 id=&#34;到此安装结束&#34;&gt;到此安装结束
+&lt;/h2&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
